@@ -1,19 +1,12 @@
 # Compiled class file
-build
-*.class
+build/
+out/
 
 # Log file
 *.log
 
 # intellihj files
-.idea
-
-# Package Files #
-*.jar
-*.war
-*.zip
-*.tar.gz
-*.rar
+.idea/
 
 # gradle files
-.gradle
+.gradle/
